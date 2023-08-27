@@ -1,0 +1,15 @@
+C:\Users\Sevval\OneDrive\Masaüstü\Pratikler\hata_yonetimi\bin\Debug\net7.0\hata_yonetimi.exe
+C:\Users\Sevval\OneDrive\Masaüstü\Pratikler\hata_yonetimi\bin\Debug\net7.0\hata_yonetimi.deps.json
+C:\Users\Sevval\OneDrive\Masaüstü\Pratikler\hata_yonetimi\bin\Debug\net7.0\hata_yonetimi.runtimeconfig.json
+C:\Users\Sevval\OneDrive\Masaüstü\Pratikler\hata_yonetimi\bin\Debug\net7.0\hata_yonetimi.dll
+C:\Users\Sevval\OneDrive\Masaüstü\Pratikler\hata_yonetimi\bin\Debug\net7.0\hata_yonetimi.pdb
+C:\Users\Sevval\OneDrive\Masaüstü\Pratikler\hata_yonetimi\obj\Debug\net7.0\hata_yonetimi.csproj.AssemblyReference.cache
+C:\Users\Sevval\OneDrive\Masaüstü\Pratikler\hata_yonetimi\obj\Debug\net7.0\hata_yonetimi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Sevval\OneDrive\Masaüstü\Pratikler\hata_yonetimi\obj\Debug\net7.0\hata_yonetimi.AssemblyInfoInputs.cache
+C:\Users\Sevval\OneDrive\Masaüstü\Pratikler\hata_yonetimi\obj\Debug\net7.0\hata_yonetimi.AssemblyInfo.cs
+C:\Users\Sevval\OneDrive\Masaüstü\Pratikler\hata_yonetimi\obj\Debug\net7.0\hata_yonetimi.csproj.CoreCompileInputs.cache
+C:\Users\Sevval\OneDrive\Masaüstü\Pratikler\hata_yonetimi\obj\Debug\net7.0\hata_yonetimi.dll
+C:\Users\Sevval\OneDrive\Masaüstü\Pratikler\hata_yonetimi\obj\Debug\net7.0\refint\hata_yonetimi.dll
+C:\Users\Sevval\OneDrive\Masaüstü\Pratikler\hata_yonetimi\obj\Debug\net7.0\hata_yonetimi.pdb
+C:\Users\Sevval\OneDrive\Masaüstü\Pratikler\hata_yonetimi\obj\Debug\net7.0\hata_yonetimi.genruntimeconfig.cache
+C:\Users\Sevval\OneDrive\Masaüstü\Pratikler\hata_yonetimi\obj\Debug\net7.0\ref\hata_yonetimi.dll
