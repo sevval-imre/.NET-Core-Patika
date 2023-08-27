@@ -1,0 +1,15 @@
+C:\Users\Sevval\OneDrive\Masaüstü\Pratikler\kosullu_ifadeler\bin\Debug\net7.0\kosullu_ifadeler.exe
+C:\Users\Sevval\OneDrive\Masaüstü\Pratikler\kosullu_ifadeler\bin\Debug\net7.0\kosullu_ifadeler.deps.json
+C:\Users\Sevval\OneDrive\Masaüstü\Pratikler\kosullu_ifadeler\bin\Debug\net7.0\kosullu_ifadeler.runtimeconfig.json
+C:\Users\Sevval\OneDrive\Masaüstü\Pratikler\kosullu_ifadeler\bin\Debug\net7.0\kosullu_ifadeler.dll
+C:\Users\Sevval\OneDrive\Masaüstü\Pratikler\kosullu_ifadeler\bin\Debug\net7.0\kosullu_ifadeler.pdb
+C:\Users\Sevval\OneDrive\Masaüstü\Pratikler\kosullu_ifadeler\obj\Debug\net7.0\kosullu_ifadeler.csproj.AssemblyReference.cache
+C:\Users\Sevval\OneDrive\Masaüstü\Pratikler\kosullu_ifadeler\obj\Debug\net7.0\kosullu_ifadeler.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Sevval\OneDrive\Masaüstü\Pratikler\kosullu_ifadeler\obj\Debug\net7.0\kosullu_ifadeler.AssemblyInfoInputs.cache
+C:\Users\Sevval\OneDrive\Masaüstü\Pratikler\kosullu_ifadeler\obj\Debug\net7.0\kosullu_ifadeler.AssemblyInfo.cs
+C:\Users\Sevval\OneDrive\Masaüstü\Pratikler\kosullu_ifadeler\obj\Debug\net7.0\kosullu_ifadeler.csproj.CoreCompileInputs.cache
+C:\Users\Sevval\OneDrive\Masaüstü\Pratikler\kosullu_ifadeler\obj\Debug\net7.0\kosullu_ifadeler.dll
+C:\Users\Sevval\OneDrive\Masaüstü\Pratikler\kosullu_ifadeler\obj\Debug\net7.0\refint\kosullu_ifadeler.dll
+C:\Users\Sevval\OneDrive\Masaüstü\Pratikler\kosullu_ifadeler\obj\Debug\net7.0\kosullu_ifadeler.pdb
+C:\Users\Sevval\OneDrive\Masaüstü\Pratikler\kosullu_ifadeler\obj\Debug\net7.0\kosullu_ifadeler.genruntimeconfig.cache
+C:\Users\Sevval\OneDrive\Masaüstü\Pratikler\kosullu_ifadeler\obj\Debug\net7.0\ref\kosullu_ifadeler.dll
