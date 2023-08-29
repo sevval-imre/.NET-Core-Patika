@@ -1,0 +1,15 @@
+C:\Users\Sevval\OneDrive\Masaüstü\Pratikler\diziler\bin\Debug\net7.0\diziler.exe
+C:\Users\Sevval\OneDrive\Masaüstü\Pratikler\diziler\bin\Debug\net7.0\diziler.deps.json
+C:\Users\Sevval\OneDrive\Masaüstü\Pratikler\diziler\bin\Debug\net7.0\diziler.runtimeconfig.json
+C:\Users\Sevval\OneDrive\Masaüstü\Pratikler\diziler\bin\Debug\net7.0\diziler.dll
+C:\Users\Sevval\OneDrive\Masaüstü\Pratikler\diziler\bin\Debug\net7.0\diziler.pdb
+C:\Users\Sevval\OneDrive\Masaüstü\Pratikler\diziler\obj\Debug\net7.0\diziler.csproj.AssemblyReference.cache
+C:\Users\Sevval\OneDrive\Masaüstü\Pratikler\diziler\obj\Debug\net7.0\diziler.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Sevval\OneDrive\Masaüstü\Pratikler\diziler\obj\Debug\net7.0\diziler.AssemblyInfoInputs.cache
+C:\Users\Sevval\OneDrive\Masaüstü\Pratikler\diziler\obj\Debug\net7.0\diziler.AssemblyInfo.cs
+C:\Users\Sevval\OneDrive\Masaüstü\Pratikler\diziler\obj\Debug\net7.0\diziler.csproj.CoreCompileInputs.cache
+C:\Users\Sevval\OneDrive\Masaüstü\Pratikler\diziler\obj\Debug\net7.0\diziler.dll
+C:\Users\Sevval\OneDrive\Masaüstü\Pratikler\diziler\obj\Debug\net7.0\refint\diziler.dll
+C:\Users\Sevval\OneDrive\Masaüstü\Pratikler\diziler\obj\Debug\net7.0\diziler.pdb
+C:\Users\Sevval\OneDrive\Masaüstü\Pratikler\diziler\obj\Debug\net7.0\diziler.genruntimeconfig.cache
+C:\Users\Sevval\OneDrive\Masaüstü\Pratikler\diziler\obj\Debug\net7.0\ref\diziler.dll
