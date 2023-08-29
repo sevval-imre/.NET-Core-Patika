@@ -1,0 +1,15 @@
+C:\Users\Sevval\OneDrive\Masaüstü\Pratikler\rekursif_extension\bin\Debug\net7.0\rekursif_extension.exe
+C:\Users\Sevval\OneDrive\Masaüstü\Pratikler\rekursif_extension\bin\Debug\net7.0\rekursif_extension.deps.json
+C:\Users\Sevval\OneDrive\Masaüstü\Pratikler\rekursif_extension\bin\Debug\net7.0\rekursif_extension.runtimeconfig.json
+C:\Users\Sevval\OneDrive\Masaüstü\Pratikler\rekursif_extension\bin\Debug\net7.0\rekursif_extension.dll
+C:\Users\Sevval\OneDrive\Masaüstü\Pratikler\rekursif_extension\bin\Debug\net7.0\rekursif_extension.pdb
+C:\Users\Sevval\OneDrive\Masaüstü\Pratikler\rekursif_extension\obj\Debug\net7.0\rekursif_extension.csproj.AssemblyReference.cache
+C:\Users\Sevval\OneDrive\Masaüstü\Pratikler\rekursif_extension\obj\Debug\net7.0\rekursif_extension.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Sevval\OneDrive\Masaüstü\Pratikler\rekursif_extension\obj\Debug\net7.0\rekursif_extension.AssemblyInfoInputs.cache
+C:\Users\Sevval\OneDrive\Masaüstü\Pratikler\rekursif_extension\obj\Debug\net7.0\rekursif_extension.AssemblyInfo.cs
+C:\Users\Sevval\OneDrive\Masaüstü\Pratikler\rekursif_extension\obj\Debug\net7.0\rekursif_extension.csproj.CoreCompileInputs.cache
+C:\Users\Sevval\OneDrive\Masaüstü\Pratikler\rekursif_extension\obj\Debug\net7.0\rekursif_extension.dll
+C:\Users\Sevval\OneDrive\Masaüstü\Pratikler\rekursif_extension\obj\Debug\net7.0\refint\rekursif_extension.dll
+C:\Users\Sevval\OneDrive\Masaüstü\Pratikler\rekursif_extension\obj\Debug\net7.0\rekursif_extension.pdb
+C:\Users\Sevval\OneDrive\Masaüstü\Pratikler\rekursif_extension\obj\Debug\net7.0\rekursif_extension.genruntimeconfig.cache
+C:\Users\Sevval\OneDrive\Masaüstü\Pratikler\rekursif_extension\obj\Debug\net7.0\ref\rekursif_extension.dll
