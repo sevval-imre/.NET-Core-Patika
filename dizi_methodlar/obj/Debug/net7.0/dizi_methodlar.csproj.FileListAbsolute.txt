@@ -1,0 +1,15 @@
+C:\Users\Sevval\OneDrive\Masaüstü\Pratikler\dizi_methodlar\bin\Debug\net7.0\dizi_methodlar.exe
+C:\Users\Sevval\OneDrive\Masaüstü\Pratikler\dizi_methodlar\bin\Debug\net7.0\dizi_methodlar.deps.json
+C:\Users\Sevval\OneDrive\Masaüstü\Pratikler\dizi_methodlar\bin\Debug\net7.0\dizi_methodlar.runtimeconfig.json
+C:\Users\Sevval\OneDrive\Masaüstü\Pratikler\dizi_methodlar\bin\Debug\net7.0\dizi_methodlar.dll
+C:\Users\Sevval\OneDrive\Masaüstü\Pratikler\dizi_methodlar\bin\Debug\net7.0\dizi_methodlar.pdb
+C:\Users\Sevval\OneDrive\Masaüstü\Pratikler\dizi_methodlar\obj\Debug\net7.0\dizi_methodlar.csproj.AssemblyReference.cache
+C:\Users\Sevval\OneDrive\Masaüstü\Pratikler\dizi_methodlar\obj\Debug\net7.0\dizi_methodlar.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Sevval\OneDrive\Masaüstü\Pratikler\dizi_methodlar\obj\Debug\net7.0\dizi_methodlar.AssemblyInfoInputs.cache
+C:\Users\Sevval\OneDrive\Masaüstü\Pratikler\dizi_methodlar\obj\Debug\net7.0\dizi_methodlar.AssemblyInfo.cs
+C:\Users\Sevval\OneDrive\Masaüstü\Pratikler\dizi_methodlar\obj\Debug\net7.0\dizi_methodlar.csproj.CoreCompileInputs.cache
+C:\Users\Sevval\OneDrive\Masaüstü\Pratikler\dizi_methodlar\obj\Debug\net7.0\dizi_methodlar.dll
+C:\Users\Sevval\OneDrive\Masaüstü\Pratikler\dizi_methodlar\obj\Debug\net7.0\refint\dizi_methodlar.dll
+C:\Users\Sevval\OneDrive\Masaüstü\Pratikler\dizi_methodlar\obj\Debug\net7.0\dizi_methodlar.pdb
+C:\Users\Sevval\OneDrive\Masaüstü\Pratikler\dizi_methodlar\obj\Debug\net7.0\dizi_methodlar.genruntimeconfig.cache
+C:\Users\Sevval\OneDrive\Masaüstü\Pratikler\dizi_methodlar\obj\Debug\net7.0\ref\dizi_methodlar.dll
