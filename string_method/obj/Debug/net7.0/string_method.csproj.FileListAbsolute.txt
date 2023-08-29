@@ -1,0 +1,15 @@
+C:\Users\Sevval\OneDrive\Masaüstü\Pratikler\string_method\bin\Debug\net7.0\string_method.exe
+C:\Users\Sevval\OneDrive\Masaüstü\Pratikler\string_method\bin\Debug\net7.0\string_method.deps.json
+C:\Users\Sevval\OneDrive\Masaüstü\Pratikler\string_method\bin\Debug\net7.0\string_method.runtimeconfig.json
+C:\Users\Sevval\OneDrive\Masaüstü\Pratikler\string_method\bin\Debug\net7.0\string_method.dll
+C:\Users\Sevval\OneDrive\Masaüstü\Pratikler\string_method\bin\Debug\net7.0\string_method.pdb
+C:\Users\Sevval\OneDrive\Masaüstü\Pratikler\string_method\obj\Debug\net7.0\string_method.csproj.AssemblyReference.cache
+C:\Users\Sevval\OneDrive\Masaüstü\Pratikler\string_method\obj\Debug\net7.0\string_method.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Sevval\OneDrive\Masaüstü\Pratikler\string_method\obj\Debug\net7.0\string_method.AssemblyInfoInputs.cache
+C:\Users\Sevval\OneDrive\Masaüstü\Pratikler\string_method\obj\Debug\net7.0\string_method.AssemblyInfo.cs
+C:\Users\Sevval\OneDrive\Masaüstü\Pratikler\string_method\obj\Debug\net7.0\string_method.csproj.CoreCompileInputs.cache
+C:\Users\Sevval\OneDrive\Masaüstü\Pratikler\string_method\obj\Debug\net7.0\string_method.dll
+C:\Users\Sevval\OneDrive\Masaüstü\Pratikler\string_method\obj\Debug\net7.0\refint\string_method.dll
+C:\Users\Sevval\OneDrive\Masaüstü\Pratikler\string_method\obj\Debug\net7.0\string_method.pdb
+C:\Users\Sevval\OneDrive\Masaüstü\Pratikler\string_method\obj\Debug\net7.0\string_method.genruntimeconfig.cache
+C:\Users\Sevval\OneDrive\Masaüstü\Pratikler\string_method\obj\Debug\net7.0\ref\string_method.dll
