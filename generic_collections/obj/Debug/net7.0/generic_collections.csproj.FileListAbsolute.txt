@@ -1,0 +1,15 @@
+C:\Users\Sevval\OneDrive\Masaüstü\Pratikler\generic_collections\bin\Debug\net7.0\generic_collections.exe
+C:\Users\Sevval\OneDrive\Masaüstü\Pratikler\generic_collections\bin\Debug\net7.0\generic_collections.deps.json
+C:\Users\Sevval\OneDrive\Masaüstü\Pratikler\generic_collections\bin\Debug\net7.0\generic_collections.runtimeconfig.json
+C:\Users\Sevval\OneDrive\Masaüstü\Pratikler\generic_collections\bin\Debug\net7.0\generic_collections.dll
+C:\Users\Sevval\OneDrive\Masaüstü\Pratikler\generic_collections\bin\Debug\net7.0\generic_collections.pdb
+C:\Users\Sevval\OneDrive\Masaüstü\Pratikler\generic_collections\obj\Debug\net7.0\generic_collections.csproj.AssemblyReference.cache
+C:\Users\Sevval\OneDrive\Masaüstü\Pratikler\generic_collections\obj\Debug\net7.0\generic_collections.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Sevval\OneDrive\Masaüstü\Pratikler\generic_collections\obj\Debug\net7.0\generic_collections.AssemblyInfoInputs.cache
+C:\Users\Sevval\OneDrive\Masaüstü\Pratikler\generic_collections\obj\Debug\net7.0\generic_collections.AssemblyInfo.cs
+C:\Users\Sevval\OneDrive\Masaüstü\Pratikler\generic_collections\obj\Debug\net7.0\generic_collections.csproj.CoreCompileInputs.cache
+C:\Users\Sevval\OneDrive\Masaüstü\Pratikler\generic_collections\obj\Debug\net7.0\generic_collections.dll
+C:\Users\Sevval\OneDrive\Masaüstü\Pratikler\generic_collections\obj\Debug\net7.0\refint\generic_collections.dll
+C:\Users\Sevval\OneDrive\Masaüstü\Pratikler\generic_collections\obj\Debug\net7.0\generic_collections.pdb
+C:\Users\Sevval\OneDrive\Masaüstü\Pratikler\generic_collections\obj\Debug\net7.0\generic_collections.genruntimeconfig.cache
+C:\Users\Sevval\OneDrive\Masaüstü\Pratikler\generic_collections\obj\Debug\net7.0\ref\generic_collections.dll
