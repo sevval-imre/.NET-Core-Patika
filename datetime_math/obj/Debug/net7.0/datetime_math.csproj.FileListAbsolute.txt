@@ -1,0 +1,15 @@
+C:\Users\Sevval\OneDrive\Masaüstü\Pratikler\datetime_math\bin\Debug\net7.0\datetime_math.exe
+C:\Users\Sevval\OneDrive\Masaüstü\Pratikler\datetime_math\bin\Debug\net7.0\datetime_math.deps.json
+C:\Users\Sevval\OneDrive\Masaüstü\Pratikler\datetime_math\bin\Debug\net7.0\datetime_math.runtimeconfig.json
+C:\Users\Sevval\OneDrive\Masaüstü\Pratikler\datetime_math\bin\Debug\net7.0\datetime_math.dll
+C:\Users\Sevval\OneDrive\Masaüstü\Pratikler\datetime_math\bin\Debug\net7.0\datetime_math.pdb
+C:\Users\Sevval\OneDrive\Masaüstü\Pratikler\datetime_math\obj\Debug\net7.0\datetime_math.csproj.AssemblyReference.cache
+C:\Users\Sevval\OneDrive\Masaüstü\Pratikler\datetime_math\obj\Debug\net7.0\datetime_math.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Sevval\OneDrive\Masaüstü\Pratikler\datetime_math\obj\Debug\net7.0\datetime_math.AssemblyInfoInputs.cache
+C:\Users\Sevval\OneDrive\Masaüstü\Pratikler\datetime_math\obj\Debug\net7.0\datetime_math.AssemblyInfo.cs
+C:\Users\Sevval\OneDrive\Masaüstü\Pratikler\datetime_math\obj\Debug\net7.0\datetime_math.csproj.CoreCompileInputs.cache
+C:\Users\Sevval\OneDrive\Masaüstü\Pratikler\datetime_math\obj\Debug\net7.0\datetime_math.dll
+C:\Users\Sevval\OneDrive\Masaüstü\Pratikler\datetime_math\obj\Debug\net7.0\refint\datetime_math.dll
+C:\Users\Sevval\OneDrive\Masaüstü\Pratikler\datetime_math\obj\Debug\net7.0\datetime_math.pdb
+C:\Users\Sevval\OneDrive\Masaüstü\Pratikler\datetime_math\obj\Debug\net7.0\datetime_math.genruntimeconfig.cache
+C:\Users\Sevval\OneDrive\Masaüstü\Pratikler\datetime_math\obj\Debug\net7.0\ref\datetime_math.dll
