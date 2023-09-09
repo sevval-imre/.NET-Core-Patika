@@ -1,0 +1,14 @@
+C:\Users\sevva\OneDrive\Masaüstü\Pratikler\odev_2\soru_3\bin\Debug\net7.0\soru_3.exe
+C:\Users\sevva\OneDrive\Masaüstü\Pratikler\odev_2\soru_3\bin\Debug\net7.0\soru_3.deps.json
+C:\Users\sevva\OneDrive\Masaüstü\Pratikler\odev_2\soru_3\bin\Debug\net7.0\soru_3.runtimeconfig.json
+C:\Users\sevva\OneDrive\Masaüstü\Pratikler\odev_2\soru_3\bin\Debug\net7.0\soru_3.dll
+C:\Users\sevva\OneDrive\Masaüstü\Pratikler\odev_2\soru_3\bin\Debug\net7.0\soru_3.pdb
+C:\Users\sevva\OneDrive\Masaüstü\Pratikler\odev_2\soru_3\obj\Debug\net7.0\soru_3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sevva\OneDrive\Masaüstü\Pratikler\odev_2\soru_3\obj\Debug\net7.0\soru_3.AssemblyInfoInputs.cache
+C:\Users\sevva\OneDrive\Masaüstü\Pratikler\odev_2\soru_3\obj\Debug\net7.0\soru_3.AssemblyInfo.cs
+C:\Users\sevva\OneDrive\Masaüstü\Pratikler\odev_2\soru_3\obj\Debug\net7.0\soru_3.csproj.CoreCompileInputs.cache
+C:\Users\sevva\OneDrive\Masaüstü\Pratikler\odev_2\soru_3\obj\Debug\net7.0\soru_3.dll
+C:\Users\sevva\OneDrive\Masaüstü\Pratikler\odev_2\soru_3\obj\Debug\net7.0\refint\soru_3.dll
+C:\Users\sevva\OneDrive\Masaüstü\Pratikler\odev_2\soru_3\obj\Debug\net7.0\soru_3.pdb
+C:\Users\sevva\OneDrive\Masaüstü\Pratikler\odev_2\soru_3\obj\Debug\net7.0\soru_3.genruntimeconfig.cache
+C:\Users\sevva\OneDrive\Masaüstü\Pratikler\odev_2\soru_3\obj\Debug\net7.0\ref\soru_3.dll

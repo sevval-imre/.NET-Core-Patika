@@ -1,0 +1,14 @@
+C:\Users\sevva\OneDrive\Masaüstü\Pratikler\odev_2\soru_2\bin\Debug\net7.0\soru_2.exe
+C:\Users\sevva\OneDrive\Masaüstü\Pratikler\odev_2\soru_2\bin\Debug\net7.0\soru_2.deps.json
+C:\Users\sevva\OneDrive\Masaüstü\Pratikler\odev_2\soru_2\bin\Debug\net7.0\soru_2.runtimeconfig.json
+C:\Users\sevva\OneDrive\Masaüstü\Pratikler\odev_2\soru_2\bin\Debug\net7.0\soru_2.dll
+C:\Users\sevva\OneDrive\Masaüstü\Pratikler\odev_2\soru_2\bin\Debug\net7.0\soru_2.pdb
+C:\Users\sevva\OneDrive\Masaüstü\Pratikler\odev_2\soru_2\obj\Debug\net7.0\soru_2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sevva\OneDrive\Masaüstü\Pratikler\odev_2\soru_2\obj\Debug\net7.0\soru_2.AssemblyInfoInputs.cache
+C:\Users\sevva\OneDrive\Masaüstü\Pratikler\odev_2\soru_2\obj\Debug\net7.0\soru_2.AssemblyInfo.cs
+C:\Users\sevva\OneDrive\Masaüstü\Pratikler\odev_2\soru_2\obj\Debug\net7.0\soru_2.csproj.CoreCompileInputs.cache
+C:\Users\sevva\OneDrive\Masaüstü\Pratikler\odev_2\soru_2\obj\Debug\net7.0\soru_2.dll
+C:\Users\sevva\OneDrive\Masaüstü\Pratikler\odev_2\soru_2\obj\Debug\net7.0\refint\soru_2.dll
+C:\Users\sevva\OneDrive\Masaüstü\Pratikler\odev_2\soru_2\obj\Debug\net7.0\soru_2.pdb
+C:\Users\sevva\OneDrive\Masaüstü\Pratikler\odev_2\soru_2\obj\Debug\net7.0\soru_2.genruntimeconfig.cache
+C:\Users\sevva\OneDrive\Masaüstü\Pratikler\odev_2\soru_2\obj\Debug\net7.0\ref\soru_2.dll
