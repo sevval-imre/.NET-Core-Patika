@@ -1,0 +1,14 @@
+C:\Users\sevva\OneDrive\Masaüstü\Pratikler\static\bin\Debug\net7.0\static.exe
+C:\Users\sevva\OneDrive\Masaüstü\Pratikler\static\bin\Debug\net7.0\static.deps.json
+C:\Users\sevva\OneDrive\Masaüstü\Pratikler\static\bin\Debug\net7.0\static.runtimeconfig.json
+C:\Users\sevva\OneDrive\Masaüstü\Pratikler\static\bin\Debug\net7.0\static.dll
+C:\Users\sevva\OneDrive\Masaüstü\Pratikler\static\bin\Debug\net7.0\static.pdb
+C:\Users\sevva\OneDrive\Masaüstü\Pratikler\static\obj\Debug\net7.0\static.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sevva\OneDrive\Masaüstü\Pratikler\static\obj\Debug\net7.0\static.AssemblyInfoInputs.cache
+C:\Users\sevva\OneDrive\Masaüstü\Pratikler\static\obj\Debug\net7.0\static.AssemblyInfo.cs
+C:\Users\sevva\OneDrive\Masaüstü\Pratikler\static\obj\Debug\net7.0\static.csproj.CoreCompileInputs.cache
+C:\Users\sevva\OneDrive\Masaüstü\Pratikler\static\obj\Debug\net7.0\static.dll
+C:\Users\sevva\OneDrive\Masaüstü\Pratikler\static\obj\Debug\net7.0\refint\static.dll
+C:\Users\sevva\OneDrive\Masaüstü\Pratikler\static\obj\Debug\net7.0\static.pdb
+C:\Users\sevva\OneDrive\Masaüstü\Pratikler\static\obj\Debug\net7.0\static.genruntimeconfig.cache
+C:\Users\sevva\OneDrive\Masaüstü\Pratikler\static\obj\Debug\net7.0\ref\static.dll
