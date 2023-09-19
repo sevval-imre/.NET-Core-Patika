@@ -1,0 +1,14 @@
+C:\Users\sevva\OneDrive\Masaüstü\Pratikler\enum\bin\Debug\net7.0\enum.exe
+C:\Users\sevva\OneDrive\Masaüstü\Pratikler\enum\bin\Debug\net7.0\enum.deps.json
+C:\Users\sevva\OneDrive\Masaüstü\Pratikler\enum\bin\Debug\net7.0\enum.runtimeconfig.json
+C:\Users\sevva\OneDrive\Masaüstü\Pratikler\enum\bin\Debug\net7.0\enum.dll
+C:\Users\sevva\OneDrive\Masaüstü\Pratikler\enum\bin\Debug\net7.0\enum.pdb
+C:\Users\sevva\OneDrive\Masaüstü\Pratikler\enum\obj\Debug\net7.0\enum.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sevva\OneDrive\Masaüstü\Pratikler\enum\obj\Debug\net7.0\enum.AssemblyInfoInputs.cache
+C:\Users\sevva\OneDrive\Masaüstü\Pratikler\enum\obj\Debug\net7.0\enum.AssemblyInfo.cs
+C:\Users\sevva\OneDrive\Masaüstü\Pratikler\enum\obj\Debug\net7.0\enum.csproj.CoreCompileInputs.cache
+C:\Users\sevva\OneDrive\Masaüstü\Pratikler\enum\obj\Debug\net7.0\enum.dll
+C:\Users\sevva\OneDrive\Masaüstü\Pratikler\enum\obj\Debug\net7.0\refint\enum.dll
+C:\Users\sevva\OneDrive\Masaüstü\Pratikler\enum\obj\Debug\net7.0\enum.pdb
+C:\Users\sevva\OneDrive\Masaüstü\Pratikler\enum\obj\Debug\net7.0\enum.genruntimeconfig.cache
+C:\Users\sevva\OneDrive\Masaüstü\Pratikler\enum\obj\Debug\net7.0\ref\enum.dll
