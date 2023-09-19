@@ -1,0 +1,14 @@
+C:\Users\sevva\OneDrive\Masaüstü\Pratikler\constructor\bin\Debug\net7.0\constructor.exe
+C:\Users\sevva\OneDrive\Masaüstü\Pratikler\constructor\bin\Debug\net7.0\constructor.deps.json
+C:\Users\sevva\OneDrive\Masaüstü\Pratikler\constructor\bin\Debug\net7.0\constructor.runtimeconfig.json
+C:\Users\sevva\OneDrive\Masaüstü\Pratikler\constructor\bin\Debug\net7.0\constructor.dll
+C:\Users\sevva\OneDrive\Masaüstü\Pratikler\constructor\bin\Debug\net7.0\constructor.pdb
+C:\Users\sevva\OneDrive\Masaüstü\Pratikler\constructor\obj\Debug\net7.0\constructor.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sevva\OneDrive\Masaüstü\Pratikler\constructor\obj\Debug\net7.0\constructor.AssemblyInfoInputs.cache
+C:\Users\sevva\OneDrive\Masaüstü\Pratikler\constructor\obj\Debug\net7.0\constructor.AssemblyInfo.cs
+C:\Users\sevva\OneDrive\Masaüstü\Pratikler\constructor\obj\Debug\net7.0\constructor.csproj.CoreCompileInputs.cache
+C:\Users\sevva\OneDrive\Masaüstü\Pratikler\constructor\obj\Debug\net7.0\constructor.dll
+C:\Users\sevva\OneDrive\Masaüstü\Pratikler\constructor\obj\Debug\net7.0\refint\constructor.dll
+C:\Users\sevva\OneDrive\Masaüstü\Pratikler\constructor\obj\Debug\net7.0\constructor.pdb
+C:\Users\sevva\OneDrive\Masaüstü\Pratikler\constructor\obj\Debug\net7.0\constructor.genruntimeconfig.cache
+C:\Users\sevva\OneDrive\Masaüstü\Pratikler\constructor\obj\Debug\net7.0\ref\constructor.dll
