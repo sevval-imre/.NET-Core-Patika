@@ -1,0 +1,14 @@
+C:\Users\sevva\OneDrive\Masaüstü\Pratikler\telefon_uygulaması\bin\Debug\net7.0\telefon_uygulaması.exe
+C:\Users\sevva\OneDrive\Masaüstü\Pratikler\telefon_uygulaması\bin\Debug\net7.0\telefon_uygulaması.deps.json
+C:\Users\sevva\OneDrive\Masaüstü\Pratikler\telefon_uygulaması\bin\Debug\net7.0\telefon_uygulaması.runtimeconfig.json
+C:\Users\sevva\OneDrive\Masaüstü\Pratikler\telefon_uygulaması\bin\Debug\net7.0\telefon_uygulaması.dll
+C:\Users\sevva\OneDrive\Masaüstü\Pratikler\telefon_uygulaması\bin\Debug\net7.0\telefon_uygulaması.pdb
+C:\Users\sevva\OneDrive\Masaüstü\Pratikler\telefon_uygulaması\obj\Debug\net7.0\telefon_uygulaması.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sevva\OneDrive\Masaüstü\Pratikler\telefon_uygulaması\obj\Debug\net7.0\telefon_uygulaması.AssemblyInfoInputs.cache
+C:\Users\sevva\OneDrive\Masaüstü\Pratikler\telefon_uygulaması\obj\Debug\net7.0\telefon_uygulaması.AssemblyInfo.cs
+C:\Users\sevva\OneDrive\Masaüstü\Pratikler\telefon_uygulaması\obj\Debug\net7.0\telefon_uygulaması.csproj.CoreCompileInputs.cache
+C:\Users\sevva\OneDrive\Masaüstü\Pratikler\telefon_uygulaması\obj\Debug\net7.0\telefon_uygulaması.dll
+C:\Users\sevva\OneDrive\Masaüstü\Pratikler\telefon_uygulaması\obj\Debug\net7.0\refint\telefon_uygulaması.dll
+C:\Users\sevva\OneDrive\Masaüstü\Pratikler\telefon_uygulaması\obj\Debug\net7.0\telefon_uygulaması.pdb
+C:\Users\sevva\OneDrive\Masaüstü\Pratikler\telefon_uygulaması\obj\Debug\net7.0\telefon_uygulaması.genruntimeconfig.cache
+C:\Users\sevva\OneDrive\Masaüstü\Pratikler\telefon_uygulaması\obj\Debug\net7.0\ref\telefon_uygulaması.dll

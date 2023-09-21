@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "telefon_uygulaması/1.0.0": {
+        "runtime": {
+          "telefon_uygulaması.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "telefon_uygulaması/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
