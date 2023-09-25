@@ -1,0 +1,14 @@
+C:\Users\pc\Desktop\Yeni klasör\todo\bin\Debug\net7.0\todo.exe
+C:\Users\pc\Desktop\Yeni klasör\todo\bin\Debug\net7.0\todo.deps.json
+C:\Users\pc\Desktop\Yeni klasör\todo\bin\Debug\net7.0\todo.runtimeconfig.json
+C:\Users\pc\Desktop\Yeni klasör\todo\bin\Debug\net7.0\todo.dll
+C:\Users\pc\Desktop\Yeni klasör\todo\bin\Debug\net7.0\todo.pdb
+C:\Users\pc\Desktop\Yeni klasör\todo\obj\Debug\net7.0\todo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pc\Desktop\Yeni klasör\todo\obj\Debug\net7.0\todo.AssemblyInfoInputs.cache
+C:\Users\pc\Desktop\Yeni klasör\todo\obj\Debug\net7.0\todo.AssemblyInfo.cs
+C:\Users\pc\Desktop\Yeni klasör\todo\obj\Debug\net7.0\todo.csproj.CoreCompileInputs.cache
+C:\Users\pc\Desktop\Yeni klasör\todo\obj\Debug\net7.0\todo.dll
+C:\Users\pc\Desktop\Yeni klasör\todo\obj\Debug\net7.0\refint\todo.dll
+C:\Users\pc\Desktop\Yeni klasör\todo\obj\Debug\net7.0\todo.pdb
+C:\Users\pc\Desktop\Yeni klasör\todo\obj\Debug\net7.0\todo.genruntimeconfig.cache
+C:\Users\pc\Desktop\Yeni klasör\todo\obj\Debug\net7.0\ref\todo.dll
